@@ -45,4 +45,4 @@ def generate_custom_length_ids(num_ids, id_length):
     custom_length_ids = [random.randint(min_value, max_value) for _ in range(num_ids)]
     return custom_length_ids
 
-bot.run("")
+bot.run("put ur bot token here")
